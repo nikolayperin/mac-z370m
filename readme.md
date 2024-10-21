@@ -1,4 +1,4 @@
-# Hackintosh-Gigabyte-Z370M-DS3H
+# Hackintosh Gigabyte Z370M-DS3H
 ## Build
 * **CPU:** Intel Core i7-9700
 * **CPU Cooler:** Deepcool AG400
