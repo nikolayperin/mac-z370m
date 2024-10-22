@@ -125,11 +125,11 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>#INFO (AAPL,ig-platform-id)</key>
-				<string> Is mandatory, to detect the iGPU as Coffee Lake (https://github.com/perez987/Intel-UHD-630-on-macOS)</string>
+				<string> Empty framebuffer (CFL) (https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md#intel-uhd-graphics-610-655-coffee-lake-and-comet-lake-processors, https://github.com/perez987/Intel-UHD-630-on-macOS)</string>
 				<key>AAPL,ig-platform-id</key>
 				<data>AwCRPg==</data>
 				<key>#INFO (enable-metal)</key>
-				<string>Enable Metal 3 in Ventura (recommendable on macOS 13)</string>
+				<string>Enable Metal 3 in Ventura (recommendable on macOS 13) (https://github.com/perez987/Intel-UHD-630-on-macOS)</string>
 				<key>enable-metal</key>
 				<data>AQAAAA==</data>
 			</dict>
@@ -568,7 +568,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>Default</string>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -628,7 +628,7 @@
 				<key>SystemAudioVolume</key>
 				<data>GQ==</data>
 				<key>#INFO (swd_panic=1)</key>
-				<string>https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html#preparations</string>
+				<string>swd_panic=1 (https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html#preparations)</string>
 				<key>boot-args</key>
 				<string>-v keepsyms=1 debug=0x100 swd_panic=1 agdpmod=pikera</string>
 				<key>#INFO (csr-active-config)</key>
