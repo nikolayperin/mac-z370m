@@ -128,11 +128,6 @@
 				<string> Is mandatory, to detect the iGPU as Coffee Lake (https://github.com/perez987/Intel-UHD-630-on-macOS)</string>
 				<key>AAPL,ig-platform-id</key>
 				<data>AwCRPg==</data>
-				<key>#INFO (device-id)</key>
-				<string>To be displayed as Intel UHD Graphics 630 instead of Kabylake Unknown (optional)
-</string>
-				<key>device-id</key>
-				<data>mz4AAA==</data>
 				<key>#INFO (enable-metal)</key>
 				<string>Enable Metal 3 in Ventura (recommendable on macOS 13)</string>
 				<key>enable-metal</key>
