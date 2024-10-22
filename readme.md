@@ -1,10 +1,11 @@
-# Hackintosh Gigabyte Z370M-DS3H
+# Hackintosh Gigabyte GA-Z370M-DS3H 
 ## Build
 * **CPU:** Intel Core i7-9700
 * **CPU Cooler:** Deepcool AG400
-* **Motherboard:** Gigabyte Z370M DS3H
-* **Network (LAN):** RTL8111
-* **Network (WLAN):** BCM4360
+* **Motherboard:** Gigabyte GA-Z370M-DS3H
+* **Audio:** ALC887
+* **Network (LAN):** Realtek RTL8111
+* **Network (WLAN):** Broadcom BCM943602CS
 * **Memory:** Kingston HyperX KHX3200C16D4/16GX 16 GB DDR4-3200
 * **Storage (MacOS/Windows):** XPG GAMMIX S11 Pro 512 GB M.2 NVME SSD
 * **Storage (data):** TOSHIBA HDWD110 1 TB SATA HDD
@@ -68,3 +69,4 @@
   * Power Loading → Auto
   * CEC 2019 Ready → Disabled
   * RC6 (Render Standby) → Enabled
+
