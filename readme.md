@@ -1,4 +1,8 @@
 # Hackintosh Gigabyte ga-z370m-ds3h 
+
+![about](pictures/about.png)
+![neofetch](pictures/neofetch.png)
+
 ## Build
 * **CPU:** Intel Core i7-9700
 * **CPU Cooler:** Deepcool AG400
