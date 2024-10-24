@@ -59,7 +59,7 @@
   * VT-d → Enabled
   * Internal Graphics → Enabled
   * DVMT Pre-Allocated → 64M
-  * DVMT Total Gfx Mem → 256M
+  * DVMT Total Gfx Mem → MAX (https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md#general-recommendations)
   * Audio Controller → Enabled
   * IOAPIC 24-119 Entries → Enabled
 * Power
