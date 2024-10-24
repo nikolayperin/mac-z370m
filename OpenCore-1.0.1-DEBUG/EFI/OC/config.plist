@@ -134,7 +134,7 @@
 				<data>kj4AAA==</data>
 				<key>#INFO (enable-metal)</key>
 				<string>Enable Metal 3 in Ventura (recommendable on macOS 13) (https://github.com/perez987/Intel-UHD-630-on-macOS)</string>
-				<key>enable-metal</key>
+				<key>#enable-metal</key>
 				<data>AQAAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x14,0x0)</key>
