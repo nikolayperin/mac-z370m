@@ -128,6 +128,10 @@
 				<string> Empty framebuffer (CFL) (https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md#intel-uhd-graphics-610-655-coffee-lake-and-comet-lake-processors, https://github.com/perez987/Intel-UHD-630-on-macOS)</string>
 				<key>AAPL,ig-platform-id</key>
 				<data>AwCRPg==</data>
+				<key>#INFO (device-id)</key>
+				<string>Intel® HD Graphics FAQs (https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md#intel-uhd-graphics-610-655-coffee-lake-and-comet-lake-processors)</string>
+				<key>device-id</key>
+				<data>kj4AAA==</data>
 				<key>#INFO (enable-metal)</key>
 				<string>Enable Metal 3 in Ventura (recommendable on macOS 13) (https://github.com/perez987/Intel-UHD-630-on-macOS)</string>
 				<key>enable-metal</key>
